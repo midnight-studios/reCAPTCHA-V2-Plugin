@@ -28,7 +28,7 @@
  * @copyright (c)2010 by Midnight Studios & Others - {@link http://midnightstudios.co.za/}.
  *
  *
- * @author Jacques Joubert @achillis
+ * @author Jacques Joubert @achillis last update date: 12 June 2017 11:00
  */
 if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.' );
 
